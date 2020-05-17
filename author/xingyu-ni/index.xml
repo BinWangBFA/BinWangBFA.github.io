@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Xingyu Ni | Bin Wang&#39;s Homepage</title>
+    <link>https://BinWangBFA.github.io/author/xingyu-ni/</link>
+      <atom:link href="https://BinWangBFA.github.io/author/xingyu-ni/index.xml" rel="self" type="application/rss+xml" />
+    <description>Xingyu Ni</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 15 May 2020 23:57:09 +0800</lastBuildDate>
+    <image>
+      <url>https://BinWangBFA.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Xingyu Ni</title>
+      <link>https://BinWangBFA.github.io/author/xingyu-ni/</link>
+    </image>
+    
+    <item>
+      <title>A Level-Set Method for Magnetic Substance Simulation</title>
+      <link>https://BinWangBFA.github.io/publication/sig20_ferrofluid/</link>
+      <pubDate>Fri, 15 May 2020 23:57:09 +0800</pubDate>
+      <guid>https://BinWangBFA.github.io/publication/sig20_ferrofluid/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

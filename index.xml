@@ -1,0 +1,328 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Bin Wang&#39;s Homepage</title>
+    <link>https://BinWangBFA.github.io/</link>
+      <atom:link href="https://BinWangBFA.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <description>Bin Wang&#39;s Homepage</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 15 May 2020 23:57:09 +0800</lastBuildDate>
+    <image>
+      <url>https://BinWangBFA.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Bin Wang&#39;s Homepage</title>
+      <link>https://BinWangBFA.github.io/</link>
+    </image>
+    
+    <item>
+      <title>A Level-Set Method for Magnetic Substance Simulation</title>
+      <link>https://BinWangBFA.github.io/publication/sig20_ferrofluid/</link>
+      <pubDate>Fri, 15 May 2020 23:57:09 +0800</pubDate>
+      <guid>https://BinWangBFA.github.io/publication/sig20_ferrofluid/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Example-driven Virtual Cinematography by Learning Camera Behaviors</title>
+      <link>https://BinWangBFA.github.io/publication/sig20_camerabehavior/</link>
+      <pubDate>Wed, 13 May 2020 19:11:48 +0800</pubDate>
+      <guid>https://BinWangBFA.github.io/publication/sig20_camerabehavior/</guid>
+      <description>&lt;h3 id=&#34;demo&#34;&gt;Demo&lt;/h3&gt;
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/QbphVbdiTTk&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+&lt;h3 id=&#34;method&#34;&gt;Method&lt;/h3&gt;
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure id=&#34;figure-our-proposed-framework-for-learning-camera-behaviors-composed-of-a-cinematic-feature-estimator-which-extracts-high-level-features-from-movie-clips-a-gating-network-which-estimates-the-type-of-camera-behavior-from-the-high-level-features-and-a-prediction-network-which-applies-the-estimated-behavior-on-a-3d-animation&#34;&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://BinWangBFA.github.io/publication/sig20_camerabehavior/overview_hu40d82731d355e574b4f3b96eab833f7d_679487_2000x2000_fit_lanczos_2.png&#34; data-caption=&#34;Our proposed framework for learning camera behaviors composed of a Cinematic Feature Estimator which extracts high-level features from movie clips, a Gating network which estimates the type of camera behavior from the high-level features, and a Prediction network which applies the estimated behavior on a 3D animation.&#34;&gt;
+
+
+  &lt;img data-src=&#34;https://BinWangBFA.github.io/publication/sig20_camerabehavior/overview_hu40d82731d355e574b4f3b96eab833f7d_679487_2000x2000_fit_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;4008&#34; height=&#34;1070&#34;&gt;
+&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption data-pre=&#34;Figure &#34; data-post=&#34;:&#34; class=&#34;numbered&#34;&gt;
+    Our proposed framework for learning camera behaviors composed of a Cinematic Feature Estimator which extracts high-level features from movie clips, a Gating network which estimates the type of camera behavior from the high-level features, and a Prediction network which applies the estimated behavior on a 3D animation.
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure id=&#34;figure-to-estimate-cinematic-features-from-film-clips-each-frame-should-pass-through-the-following-steps-i-extracting-2d-skeletons-with-lcr-net-ii-pose-association-filling-missing-joints-and-smoothing-and-iii-estimating-features-through-a-neural-network&#34;&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://BinWangBFA.github.io/publication/sig20_camerabehavior/extractorPipeline_hu54d91a2bab3bb3210b563591de8feb7d_205158_2000x2000_fit_q90_lanczos.jpg&#34; data-caption=&#34;To estimate cinematic features from film clips, each frame should pass through the following steps: (i) extracting 2D skeletons with LCR-Net, (ii) pose association, filling missing joints and smoothing, and (iii) estimating features through a neural network.&#34;&gt;
+
+
+  &lt;img data-src=&#34;https://BinWangBFA.github.io/publication/sig20_camerabehavior/extractorPipeline_hu54d91a2bab3bb3210b563591de8feb7d_205158_2000x2000_fit_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;3245&#34; height=&#34;820&#34;&gt;
+&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption data-pre=&#34;Figure &#34; data-post=&#34;:&#34; class=&#34;numbered&#34;&gt;
+    To estimate cinematic features from film clips, each frame should pass through the following steps: (i) extracting 2D skeletons with LCR-Net, (ii) pose association, filling missing joints and smoothing, and (iii) estimating features through a neural network.
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure id=&#34;figure-learning-stage-of-the-cinematic-feature-estimator-input-data-is-gathered-over-on-a-sliding-window-of-t_c8-frames-to-increase-robustness-during-the-learning-and-testing-phases-the-output-data-gathers-cinematic-features-such-as-the-camera-pose-estimation-in-toric-space-and-character-features&#34;&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://BinWangBFA.github.io/publication/sig20_camerabehavior/estimation_model_hu38271f885894ebea843bfbaeb0125dc9_322059_2000x2000_fit_q90_lanczos.jpg&#34; data-caption=&#34;Learning stage of the Cinematic Feature Estimator. Input data is gathered over on a sliding window of $t_c=8$ frames to increase robustness during the learning and testing phases. The output data gathers cinematic features such as the camera pose estimation in Toric space and character features.&#34;&gt;
+
+
+  &lt;img data-src=&#34;https://BinWangBFA.github.io/publication/sig20_camerabehavior/estimation_model_hu38271f885894ebea843bfbaeb0125dc9_322059_2000x2000_fit_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;3852&#34; height=&#34;1613&#34;&gt;
+&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption data-pre=&#34;Figure &#34; data-post=&#34;:&#34; class=&#34;numbered&#34;&gt;
+    Learning stage of the Cinematic Feature Estimator. Input data is gathered over on a sliding window of $t_c=8$ frames to increase robustness during the learning and testing phases. The output data gathers cinematic features such as the camera pose estimation in Toric space and character features.
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure id=&#34;figure-structure-of-our-mixture-of-experts-moe-training-network-the-network-takes-as-input-the-result-of-the-cinematic-feature-estimator-applied-on-reference-clips-and-the-3d-animation-it-outputs-a-sequence-of-camera-parameters-for-each-frame-of-the-animation-that-can-be-used-to-render-the-animation&#34;&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://BinWangBFA.github.io/publication/sig20_camerabehavior/gatingPipeline_hua20e9a7b7eced335c41881290619cb5f_720770_2000x2000_fit_q90_lanczos.jpg&#34; data-caption=&#34;Structure of our Mixture of Experts (MoE) training network. The network takes as input the result of the Cinematic Feature Estimator applied on reference clips and the 3D animation. It outputs a sequence of camera parameters for each frame of the animation that can be used to render the animation.&#34;&gt;
+
+
+  &lt;img data-src=&#34;https://BinWangBFA.github.io/publication/sig20_camerabehavior/gatingPipeline_hua20e9a7b7eced335c41881290619cb5f_720770_2000x2000_fit_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;5943&#34; height=&#34;2107&#34;&gt;
+&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption data-pre=&#34;Figure &#34; data-post=&#34;:&#34; class=&#34;numbered&#34;&gt;
+    Structure of our Mixture of Experts (MoE) training network. The network takes as input the result of the Cinematic Feature Estimator applied on reference clips and the 3D animation. It outputs a sequence of camera parameters for each frame of the animation that can be used to render the animation.
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure id=&#34;figure-side-track-with-different-main-character-in-side-track-mode-the-camera-will-always-look-from-one-side-of-the-main-character-no-matter-hisher-facing-orientation-green-arrow-indicates-the-main-character-in-each-sequence&#34;&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://BinWangBFA.github.io/publication/sig20_camerabehavior/sideTrack_hu310ccf28f6def58532f4c27c0170d35a_1081081_2000x2000_fit_q90_lanczos.jpg&#34; data-caption=&#34;Side track with different main character. In side track mode, the camera will always look from one side of the main character no matter his/her facing orientation. Green arrow indicates the main character in each sequence.&#34;&gt;
+
+
+  &lt;img data-src=&#34;https://BinWangBFA.github.io/publication/sig20_camerabehavior/sideTrack_hu310ccf28f6def58532f4c27c0170d35a_1081081_2000x2000_fit_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;9955&#34; height=&#34;2242&#34;&gt;
+&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption data-pre=&#34;Figure &#34; data-post=&#34;:&#34; class=&#34;numbered&#34;&gt;
+    Side track with different main character. In side track mode, the camera will always look from one side of the main character no matter his/her facing orientation. Green arrow indicates the main character in each sequence.
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure id=&#34;figure-relative-vs-direct-track-with-same-main-character-relative-track-top-puts-more-emphasis-on-the-male-character-while-the-feeling-conveyed-by-direct-track-bottom-is-more-objective-green-arrow-indicates-the-main-character-in-each-sequence&#34;&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://BinWangBFA.github.io/publication/sig20_camerabehavior/a_relative_b_direct_hu310ccf28f6def58532f4c27c0170d35a_1268203_2000x2000_fit_q90_lanczos.jpg&#34; data-caption=&#34;Relative vs direct track with same main character. Relative track (top) puts more emphasis on the male character; while the feeling conveyed by direct track (bottom) is more objective. Green arrow indicates the main character in each sequence.&#34;&gt;
+
+
+  &lt;img data-src=&#34;https://BinWangBFA.github.io/publication/sig20_camerabehavior/a_relative_b_direct_hu310ccf28f6def58532f4c27c0170d35a_1268203_2000x2000_fit_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;9935&#34; height=&#34;2221&#34;&gt;
+&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption data-pre=&#34;Figure &#34; data-post=&#34;:&#34; class=&#34;numbered&#34;&gt;
+    Relative vs direct track with same main character. Relative track (top) puts more emphasis on the male character; while the feeling conveyed by direct track (bottom) is more objective. Green arrow indicates the main character in each sequence.
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure id=&#34;figure-snapshots-taken-from-two-distinct-camera-motions-computed-on-the-zombie-sequence-using-two-distinct-sequences-of-input-the-green-arrow-represents-the-main-character-as-viewed-in-the-snapshots-there-are-changes-in-the-main-character-throughout-the-sequence-this-enables-the-designer-through-selected-clips-to-emphasize-one-character-over-another-at-different-moments&#34;&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://BinWangBFA.github.io/publication/sig20_camerabehavior/zombie_seq_overview_hud86d36f5fce07720e2339a00aa120b78_714493_2000x2000_fit_q90_lanczos.jpg&#34; data-caption=&#34;Snapshots taken from two distinct camera motions computed on the zombie sequence using two distinct sequences of input. The green arrow represents the main character. As viewed in the snapshots, there are changes in the main character throughout the sequence. This enables the designer, through selected clips, to emphasize one character over another at different moments.&#34;&gt;
+
+
+  &lt;img data-src=&#34;https://BinWangBFA.github.io/publication/sig20_camerabehavior/zombie_seq_overview_hud86d36f5fce07720e2339a00aa120b78_714493_2000x2000_fit_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;4978&#34; height=&#34;2268&#34;&gt;
+&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption data-pre=&#34;Figure &#34; data-post=&#34;:&#34; class=&#34;numbered&#34;&gt;
+    Snapshots taken from two distinct camera motions computed on the zombie sequence using two distinct sequences of input. The green arrow represents the main character. As viewed in the snapshots, there are changes in the main character throughout the sequence. This enables the designer, through selected clips, to emphasize one character over another at different moments.
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+
+&lt;h3 id=&#34;bibtex&#34;&gt;Bibtex&lt;/h3&gt;
+&lt;p&gt;TBD&lt;/p&gt;
+&lt;h3 id=&#34;acknowledgement&#34;&gt;Acknowledgement&lt;/h3&gt;
+&lt;p&gt;This work was supported in part by the National Key R&amp;amp;D Program of China (2018YFB1403900, 2019YFF0302902). We also thank Anthony Mirabile and Ludovic Burg from University Rennes, Inria, CNRS, IRISA and Di Zhang from AICFVE, Beijing Film Academy for their help in animation generation and rendering.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Deformation Capture and Modeling of Soft Objects</title>
+      <link>https://BinWangBFA.github.io/publication/sig15_deformationcapture/</link>
+      <pubDate>Sat, 16 May 2015 00:11:09 +0800</pubDate>
+      <guid>https://BinWangBFA.github.io/publication/sig15_deformationcapture/</guid>
+      <description>&lt;h3 id=&#34;acknowledgement&#34;&gt;Acknowledgement&lt;/h3&gt;
+&lt;p&gt;We thank the anonymous reviewers for their constructive comments. We are grateful to the authors of [Chen et al. 2014] for sharing their data and fabricated models for our validation and comparison experiments. We also thank Jiacheng Ren, Jiangtao Shen, Keng Hua Sing, Francois Faure and Matthieu Nesme for their help and thoughtful discussions at the various stages of developing this project. This work is supported in part by Singapore Ministry of Education Academic Research Fund Tier 2 (MOE2011-T2-2-152); Microsoft Research Asia Collaborative Research Program (FY14-RES-OPP-002); NSFC (61402459, 61379090, 61331018); National 973 Program (2014CB360503); Shenzhen Innovation Program (CXB201104220029A, JCYJ20140901003939034, JCYJ20130401170306810); NSERC Discovery Grant (84306).&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Simulation and Control of Skeleton-driven Soft Body Characters</title>
+      <link>https://BinWangBFA.github.io/publication/sig13_softcharacter/</link>
+      <pubDate>Thu, 16 May 2013 00:37:25 +0800</pubDate>
+      <guid>https://BinWangBFA.github.io/publication/sig13_softcharacter/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Adaptive Image-based Intersection Volume</title>
+      <link>https://BinWangBFA.github.io/publication/sig12_adaptivecontact/</link>
+      <pubDate>Wed, 16 May 2012 00:11:24 +0800</pubDate>
+      <guid>https://BinWangBFA.github.io/publication/sig12_adaptivecontact/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
