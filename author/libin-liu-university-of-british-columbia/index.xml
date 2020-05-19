@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Libin Liu —— University of British Columbia | Bin Wang&#39;s Homepage</title>
+    <link>https://BinWangBFA.github.io/author/libin-liu-university-of-british-columbia/</link>
+      <atom:link href="https://BinWangBFA.github.io/author/libin-liu-university-of-british-columbia/index.xml" rel="self" type="application/rss+xml" />
+    <description>Libin Liu —— University of British Columbia</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 16 May 2015 00:11:09 +0800</lastBuildDate>
+    <image>
+      <url>https://BinWangBFA.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Libin Liu —— University of British Columbia</title>
+      <link>https://BinWangBFA.github.io/author/libin-liu-university-of-british-columbia/</link>
+    </image>
+    
+    <item>
+      <title>Deformation Capture and Modeling of Soft Objects</title>
+      <link>https://BinWangBFA.github.io/publication/sig15_deformationcapture/</link>
+      <pubDate>Sat, 16 May 2015 00:11:09 +0800</pubDate>
+      <guid>https://BinWangBFA.github.io/publication/sig15_deformationcapture/</guid>
+      <description>&lt;h3 id=&#34;acknowledgement&#34;&gt;Acknowledgement&lt;/h3&gt;
+&lt;p&gt;We thank the anonymous reviewers for their constructive comments. We are grateful to the authors of [Chen et al. 2014] for sharing their data and fabricated models for our validation and comparison experiments. We also thank Jiacheng Ren, Jiangtao Shen, Keng Hua Sing, Francois Faure and Matthieu Nesme for their help and thoughtful discussions at the various stages of developing this project. This work is supported in part by Singapore Ministry of Education Academic Research Fund Tier 2 (MOE2011-T2-2-152); Microsoft Research Asia Collaborative Research Program (FY14-RES-OPP-002); NSFC (61402459, 61379090, 61331018); National 973 Program (2014CB360503); Shenzhen Innovation Program (CXB201104220029A, JCYJ20140901003939034, JCYJ20130401170306810); NSERC Discovery Grant (84306).&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
