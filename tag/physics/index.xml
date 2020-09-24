@@ -5,12 +5,20 @@
     <link>https://BinWangBFA.github.io/tag/physics/</link>
       <atom:link href="https://BinWangBFA.github.io/tag/physics/index.xml" rel="self" type="application/rss+xml" />
     <description>Physics</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 15 May 2020 23:57:09 +0800</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 15 Sep 2020 23:57:09 +0800</lastBuildDate>
     <image>
       <url>https://BinWangBFA.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Physics</title>
       <link>https://BinWangBFA.github.io/tag/physics/</link>
     </image>
+    
+    <item>
+      <title>Learning Elastic Constitutive Material and Damping Models</title>
+      <link>https://BinWangBFA.github.io/publication/pg20_deepm/</link>
+      <pubDate>Tue, 15 Sep 2020 23:57:09 +0800</pubDate>
+      <guid>https://BinWangBFA.github.io/publication/pg20_deepm/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>A Level-Set Method for Magnetic Substance Simulation</title>
