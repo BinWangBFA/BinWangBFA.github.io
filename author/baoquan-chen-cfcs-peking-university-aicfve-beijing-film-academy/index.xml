@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>BAOQUAN CHEN* —— CFCS, Peking University &amp; AICFVE, Beijing Film Academy | Bin Wang&#39;s Homepage</title>
+    <title>BAOQUAN CHEN —— CFCS, Peking University &amp; AICFVE, Beijing Film Academy | Bin Wang&#39;s Homepage</title>
     <link>https://BinWangBFA.github.io/author/baoquan-chen-cfcs-peking-university-aicfve-beijing-film-academy/</link>
       <atom:link href="https://BinWangBFA.github.io/author/baoquan-chen-cfcs-peking-university-aicfve-beijing-film-academy/index.xml" rel="self" type="application/rss+xml" />
-    <description>BAOQUAN CHEN* —— CFCS, Peking University &amp; AICFVE, Beijing Film Academy</description>
+    <description>BAOQUAN CHEN —— CFCS, Peking University &amp; AICFVE, Beijing Film Academy</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 15 May 2021 23:57:09 +0800</lastBuildDate>
     <image>
       <url>https://BinWangBFA.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
-      <title>BAOQUAN CHEN* —— CFCS, Peking University &amp; AICFVE, Beijing Film Academy</title>
+      <title>BAOQUAN CHEN —— CFCS, Peking University &amp; AICFVE, Beijing Film Academy</title>
       <link>https://BinWangBFA.github.io/author/baoquan-chen-cfcs-peking-university-aicfve-beijing-film-academy/</link>
     </image>
     
@@ -17,6 +17,14 @@
       <link>https://BinWangBFA.github.io/publication/sig21_waterstrider/</link>
       <pubDate>Sat, 15 May 2021 23:57:09 +0800</pubDate>
       <guid>https://BinWangBFA.github.io/publication/sig21_waterstrider/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Unsupervised Co-part Segmentation through Assembly</title>
+      <link>https://BinWangBFA.github.io/publication/icml21_copart/</link>
+      <pubDate>Sat, 15 May 2021 23:57:09 +0800</pubDate>
+      <guid>https://BinWangBFA.github.io/publication/icml21_copart/</guid>
       <description></description>
     </item>
     

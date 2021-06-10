@@ -27,10 +27,10 @@
   
     
   
-  <meta name="description" content="Researcher of Advanced Innovation Center for Future Visual Entertainment">
+  <meta name="description" content="This paper proposes an unsupervised Co-part segmentation approach, which leverages shape correlation information between different frames in the video to achieve semantic part segmentation. We have designed a novel network structure which achieves self-supervision through a dual procedure of part-assembly to form a closed loop with part-segmentation. Additionally, we have developed several new loss functions that ensure consistent, compact and meaningful part segmentation and the intermediate transformations with clear explainable physical meaning.">
 
   
-  <link rel="alternate" hreflang="en-us" href="https://BinWangBFA.github.io/authors/">
+  <link rel="alternate" hreflang="en-us" href="https://BinWangBFA.github.io/publication/icml21_copart/">
 
   
 
@@ -210,14 +210,12 @@
   
 
   
-  <link rel="alternate" href="/authors/index.xml" type="application/rss+xml" title="Bin Wang&#39;s Homepage">
-  
 
   <link rel="manifest" href="/index.webmanifest">
   <link rel="icon" type="image/png" href="/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_32x32_fill_lanczos_center_2.png">
   <link rel="apple-touch-icon" type="image/png" href="/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_192x192_fill_lanczos_center_2.png">
 
-  <link rel="canonical" href="https://BinWangBFA.github.io/authors/">
+  <link rel="canonical" href="https://BinWangBFA.github.io/publication/icml21_copart/">
 
   
   
@@ -227,35 +225,84 @@
   
   
     
-    
   
   
-  <meta property="twitter:card" content="summary">
+  <meta property="twitter:card" content="summary_large_image">
   
   <meta property="og:site_name" content="Bin Wang&#39;s Homepage">
-  <meta property="og:url" content="https://BinWangBFA.github.io/authors/">
-  <meta property="og:title" content="Authors | Bin Wang&#39;s Homepage">
-  <meta property="og:description" content="Researcher of Advanced Innovation Center for Future Visual Entertainment"><meta property="og:image" content="https://BinWangBFA.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png">
-  <meta property="twitter:image" content="https://BinWangBFA.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png"><meta property="og:locale" content="en-us">
+  <meta property="og:url" content="https://BinWangBFA.github.io/publication/icml21_copart/">
+  <meta property="og:title" content="Unsupervised Co-part Segmentation through Assembly | Bin Wang&#39;s Homepage">
+  <meta property="og:description" content="This paper proposes an unsupervised Co-part segmentation approach, which leverages shape correlation information between different frames in the video to achieve semantic part segmentation. We have designed a novel network structure which achieves self-supervision through a dual procedure of part-assembly to form a closed loop with part-segmentation. Additionally, we have developed several new loss functions that ensure consistent, compact and meaningful part segmentation and the intermediate transformations with clear explainable physical meaning."><meta property="og:image" content="https://BinWangBFA.github.io/publication/icml21_copart/featured.JPG">
+  <meta property="twitter:image" content="https://BinWangBFA.github.io/publication/icml21_copart/featured.JPG"><meta property="og:locale" content="en-us">
   
-    <meta property="og:updated_time" content="2021-05-15T23:57:09&#43;08:00">
+    
+      <meta property="article:published_time" content="2021-05-15T23:57:09&#43;08:00">
+    
+    <meta property="article:modified_time" content="2021-05-15T23:57:09&#43;08:00">
   
-
-  
-
-
-
 
   
 
 
+    
+
+
+
+
+
+
+
+
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://BinWangBFA.github.io/publication/icml21_copart/"
+  },
+  "headline": "Unsupervised Co-part Segmentation through Assembly",
+  
+  "image": [
+    "https://BinWangBFA.github.io/publication/icml21_copart/featured.JPG"
+  ],
+  
+  "datePublished": "2021-05-15T23:57:09+08:00",
+  "dateModified": "2021-05-15T23:57:09+08:00",
+  
+  "author": {
+    "@type": "Person",
+    "name": "QINGZHE GAO —— Shandong University, Beijing Film Academy"
+  },
+  
+  "publisher": {
+    "@type": "Organization",
+    "name": "Bin Wang's Homepage",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https://BinWangBFA.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_192x192_fill_lanczos_center_2.png"
+    }
+  },
+  "description": "This paper proposes an unsupervised Co-part segmentation approach, which leverages shape correlation information between different frames in the video to achieve semantic part segmentation. We have designed a novel network structure which achieves self-supervision through a dual procedure of part-assembly to form a closed loop with part-segmentation. Additionally, we have developed several new loss functions that ensure consistent, compact and meaningful part segmentation and the intermediate transformations with clear explainable physical meaning."
+}
+</script>
+
+  
+
+  
+
+
+  
+
+
   
 
 
 
 
 
-  <title>Authors | Bin Wang&#39;s Homepage</title>
+  <title>Unsupervised Co-part Segmentation through Assembly | Bin Wang&#39;s Homepage</title>
 
 </head>
 
@@ -429,87 +476,362 @@
 </nav>
 
 
-  
-
-
-
-
-
-
-
-
-
-
-
-
-
+  <div class="pub">
 
   
 
-  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
   
   
     
   
-<div class="universal-wrapper pt-3">
-  <h1>Authors</h1>
+
+
+<div class="article-container pt-3">
+  <h1>Unsupervised Co-part Segmentation through Assembly</h1>
 
   
 
+  
+
+
+<div class="article-metadata">
+
+  
+  
+  
+  
+  <div>
+    
+
+  
+  <span>QINGZHE GAO —— Shandong University, Beijing Film Academy
+		<span> </br> </span></span> <span>BIN WANG —— AICFVE, Beijing Film Academy
+		<span> </br> </span></span> <span>LIBIN LIU —— CFCS, Peking University &amp; AICFVE, Beijing Film Academy
+		<span> </br> </span></span> <span>BAOQUAN CHEN —— CFCS, Peking University &amp; AICFVE, Beijing Film Academy
+		<span> </br> </span></span>
+  </div>
+  
+  
+  
+  
+  
+
+  
+
+  
+
+  
+  
+  
+
+  
+  
+
+</div>
+
+  
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+<div class="btn-links mb-3">
+  
+  
+
+
+
+
+
+
+
+
+  
+
+
+
+<a class="btn btn-outline-primary my-1 mr-1" href="/publication/icml21_copart/ICML21_Copart.pdf" target="_blank" rel="noopener">
+  PDF
+</a>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</div>
+
+
+</div>
+
+
+<div class="article-header article-container featured-image-wrapper mt-4 mb-4" style="max-width: 720px; max-height: 293px;">
+  <div style="position: relative">
+    <img src="/publication/icml21_copart/featured_hud22adfc523aa76533c2d9cc94d4bc5fa_126384_720x0_resize_q90_lanczos.JPG" alt="" class="featured-image">
+    
+  </div>
+</div>
+
+
+
+  <div class="article-container">
+
+    
+    <h3>Abstract</h3>
+    <p class="pub-abstract">Co-part segmentation is an important problem in computer vision for its rich applications. We propose an unsupervised learning approach for co-part segmentation from images. For the training stage, we leverage motion information embedded in videos and explicitly extract latent representations to segment meaningful object parts. More importantly, we introduce a dual procedure of part-assembly to form a closed loop with part-segmentation, enabling an effective self-supervision. We demonstrate the effectiveness of our approach with a host of extensive experiments, ranging from human bodies, hands, quadruped, and robot arms. We show that our approach can achieve meaningful and compact part segmentation, outperforming state-of-the-art approaches on diverse benchmarks.</p>
+    
+
+    
+    <div class="row">
+      <div class="col-md-1"></div>
+      <div class="col-md-10">
+        <div class="row">
+          <div class="col-12 col-md-3 pub-row-heading">Type</div>
+          <div class="col-12 col-md-9">
+            
+            
+            <a href="/publication/#1">
+              Conference paper
+            </a>
+            
+          </div>
+        </div>
+      </div>
+      <div class="col-md-1"></div>
+    </div>
+    <div class="d-md-none space-below"></div>
+    
+
+    
+    <div class="row">
+      <div class="col-md-1"></div>
+      <div class="col-md-10">
+        <div class="row">
+          <div class="col-12 col-md-3 pub-row-heading">Publication</div>
+          <div class="col-12 col-md-9">Proceedings of ICML 2021</div>
+        </div>
+      </div>
+      <div class="col-md-1"></div>
+    </div>
+    <div class="d-md-none space-below"></div>
+    
+
+    <div class="space-below"></div>
+
+    <div class="article-style"></div>
+
+    
+
+
+
+
+
+<div class="article-tags">
+  
+  <a class="badge badge-light" href="/tag/computer-vision/">Computer Vision</a>
+  
+  <a class="badge badge-light" href="/tag/segmentation/">Segmentation</a>
   
 </div>
 
 
 
-<div class="universal-wrapper">
-  
-
-  <ul>
-    
+<div class="share-box" aria-hidden="true">
+  <ul class="share">
     
       
-      <li><a href="https://BinWangBFA.github.io/author/baining-guo-microsoft-research-asia/">Baining Guo —— Microsoft Research Asia</a></li>
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="https://twitter.com/intent/tweet?url=https://BinWangBFA.github.io/publication/icml21_copart/&amp;text=Unsupervised%20Co-part%20Segmentation%20through%20Assembly" target="_blank" rel="noopener" class="share-btn-twitter">
+          <i class="fab fa-twitter"></i>
+        </a>
+      </li>
     
       
-      <li><a href="https://BinWangBFA.github.io/author/bin-wang-national-university-of-singapore/">Bin Wang —— National University of Singapore</a></li>
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="https://www.facebook.com/sharer.php?u=https://BinWangBFA.github.io/publication/icml21_copart/&amp;t=Unsupervised%20Co-part%20Segmentation%20through%20Assembly" target="_blank" rel="noopener" class="share-btn-facebook">
+          <i class="fab fa-facebook"></i>
+        </a>
+      </li>
     
       
-      <li><a href="https://BinWangBFA.github.io/author/libin-liu-tsing-hua-university/">Libin Liu —— Tsing Hua University</a></li>
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="mailto:?subject=Unsupervised%20Co-part%20Segmentation%20through%20Assembly&amp;body=https://BinWangBFA.github.io/publication/icml21_copart/" target="_blank" rel="noopener" class="share-btn-email">
+          <i class="fas fa-envelope"></i>
+        </a>
+      </li>
     
       
-      <li><a href="https://BinWangBFA.github.io/author/bin-wang-beihang-university-university-of-british-columbia/">Bin Wang -- Beihang University, University of British Columbia</a></li>
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="https://www.linkedin.com/shareArticle?url=https://BinWangBFA.github.io/publication/icml21_copart/&amp;title=Unsupervised%20Co-part%20Segmentation%20through%20Assembly" target="_blank" rel="noopener" class="share-btn-linkedin">
+          <i class="fab fa-linkedin-in"></i>
+        </a>
+      </li>
     
       
-      <li><a href="https://BinWangBFA.github.io/author/dinesh-k.-pai-university-of-british-columbia/">Dinesh K. Pai -- University of British Columbia</a></li>
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="https://web.whatsapp.com/send?text=Unsupervised%20Co-part%20Segmentation%20through%20Assembly%20https://BinWangBFA.github.io/publication/icml21_copart/" target="_blank" rel="noopener" class="share-btn-whatsapp">
+          <i class="fab fa-whatsapp"></i>
+        </a>
+      </li>
     
       
-      <li><a href="https://BinWangBFA.github.io/author/francois-faure-university-of-grenoble-inria-ljk-cnrs-university-of-british-columbia/">François Faure -- University of Grenoble, INRIA, LJK-CNRS, University of British Columbia</a></li>
-    
       
-      <li><a href="https://BinWangBFA.github.io/author/bin-wang-%E7%8E%8B-%E6%BB%A8/">Bin Wang (王 滨)</a></li>
-    
       
-      <li><a href="https://BinWangBFA.github.io/author/bin-wang-shenzhen-visuca-key-lab-/-siat-national-university-of-singapore/">Bin Wang —— Shenzhen VisuCA Key Lab / SIAT, National University of Singapore</a></li>
-    
+        
       
-      <li><a href="https://BinWangBFA.github.io/author/hui-huang-shenzhen-visuca-key-lab-/-siat/">Hui Huang —— Shenzhen VisuCA Key Lab / SIAT</a></li>
-    
       
-      <li><a href="https://BinWangBFA.github.io/author/longhua-wu-shenzhen-visuca-key-lab-/-siat/">Longhua Wu —— Shenzhen VisuCA Key Lab / SIAT</a></li>
+      
+      <li>
+        <a href="https://service.weibo.com/share/share.php?url=https://BinWangBFA.github.io/publication/icml21_copart/&amp;title=Unsupervised%20Co-part%20Segmentation%20through%20Assembly" target="_blank" rel="noopener" class="share-btn-weibo">
+          <i class="fab fa-weibo"></i>
+        </a>
+      </li>
     
   </ul>
+</div>
+
+
+
+
+
+
+
+
+
+
+
 
   
-<nav>
-  <ul class="pagination justify-content-center">
-    
-    <li class="page-item"><a class="page-link" href="/authors/page/2/">&laquo;</a></li>
     
     
-  </ul>
-</nav>
 
 
+
+
+
+  
+
+
+  
+    
+    
+
+
+
+
+
+  
+
+
+  
+    
+    
+
+
+
+
+
+  
+
+
+  
+    
+    
+
+
+
+
+
+  
+
+
+  
+
+
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+  </div>
 </div>
 
       
