@@ -5,12 +5,20 @@
     <link>https://BinWangBFA.github.io/</link>
       <atom:link href="https://BinWangBFA.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>Bin Wang&#39;s Homepage</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 15 Sep 2020 23:57:09 +0800</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 15 May 2021 23:57:09 +0800</lastBuildDate>
     <image>
       <url>https://BinWangBFA.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Bin Wang&#39;s Homepage</title>
       <link>https://BinWangBFA.github.io/</link>
     </image>
+    
+    <item>
+      <title>Solid-Fluid Interaction with Surface-Tension-Dominant Contact</title>
+      <link>https://BinWangBFA.github.io/publication/sig21_waterstrider/</link>
+      <pubDate>Sat, 15 May 2021 23:57:09 +0800</pubDate>
+      <guid>https://BinWangBFA.github.io/publication/sig21_waterstrider/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Learning Elastic Constitutive Material and Damping Models</title>
