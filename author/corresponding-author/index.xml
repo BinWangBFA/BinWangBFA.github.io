@@ -5,7 +5,7 @@
     <link>https://BinWangBFA.github.io/author/corresponding-author/</link>
       <atom:link href="https://BinWangBFA.github.io/author/corresponding-author/index.xml" rel="self" type="application/rss+xml" />
     <description>(* corresponding author)</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 13 May 2021 19:11:48 +0800</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 13 Dec 2021 19:11:48 +0800</lastBuildDate>
     <image>
       <url>https://BinWangBFA.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>(* corresponding author)</title>
@@ -14,9 +14,9 @@
     
     <item>
       <title>Camera Keyframing with Style and Control</title>
-      <link>https://BinWangBFA.github.io/publication/sig21_camerakeyframe/</link>
-      <pubDate>Thu, 13 May 2021 19:11:48 +0800</pubDate>
-      <guid>https://BinWangBFA.github.io/publication/sig21_camerakeyframe/</guid>
+      <link>https://BinWangBFA.github.io/publication/siga21_camerakeyframe/</link>
+      <pubDate>Mon, 13 Dec 2021 19:11:48 +0800</pubDate>
+      <guid>https://BinWangBFA.github.io/publication/siga21_camerakeyframe/</guid>
       <description>&lt;h3 id=&#34;demo&#34;&gt;Demo&lt;/h3&gt;
 
 &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
@@ -45,10 +45,10 @@
 &lt;figure id=&#34;figure-our-proposed-framework-for-learning-camera-together-with-keyframe-constraints-composed-of-a-camera-behavior-extractor-gating-lstm-which-extracts-camera-behaviors-from-reference-clips-and-a-camera-motion-generator-which-generates-camera-trajectories-that-both-meet-the-camera-behaviors-and-required-keyframe-constraints-speed-and-directions&#34;&gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;https://BinWangBFA.github.io/publication/sig21_camerakeyframe/overview_hu5080ead5b726336a4f13e4a6274d1fc1_1240407_2000x2000_fit_lanczos_2.png&#34; data-caption=&#34;Our proposed framework for learning camera together with keyframe constraints composed of a camera behavior extractor (Gating LSTM), which extracts camera behaviors from reference clips, and a camera motion generator, which generates camera trajectories that both meet the camera behaviors and required keyframe constraints, speed and directions.&#34;&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://BinWangBFA.github.io/publication/siga21_camerakeyframe/overview_hu5080ead5b726336a4f13e4a6274d1fc1_1240407_2000x2000_fit_lanczos_2.png&#34; data-caption=&#34;Our proposed framework for learning camera together with keyframe constraints composed of a camera behavior extractor (Gating LSTM), which extracts camera behaviors from reference clips, and a camera motion generator, which generates camera trajectories that both meet the camera behaviors and required keyframe constraints, speed and directions.&#34;&gt;
 
 
-  &lt;img data-src=&#34;https://BinWangBFA.github.io/publication/sig21_camerakeyframe/overview_hu5080ead5b726336a4f13e4a6274d1fc1_1240407_2000x2000_fit_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;3735&#34; height=&#34;1312&#34;&gt;
+  &lt;img data-src=&#34;https://BinWangBFA.github.io/publication/siga21_camerakeyframe/overview_hu5080ead5b726336a4f13e4a6274d1fc1_1240407_2000x2000_fit_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;3735&#34; height=&#34;1312&#34;&gt;
 &lt;/a&gt;
 
 
@@ -82,10 +82,10 @@
 &lt;figure id=&#34;figure-by-learning-the-mapping-from-a-style-code-and-several-camera-frames-5-in-this-paper-towards-the-starting-hidden-state-of-our-autoregressive-generator-we-provide-an-additional-degree-of-control-for-the-users-through-the-specification-of-camera-velocities&#34;&gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;https://BinWangBFA.github.io/publication/sig21_camerakeyframe/extractorPipeline_hu4692b9e541bea0c75d1632799f7cf6af_189449_2000x2000_fit_q90_lanczos.jpg&#34; data-caption=&#34;By learning the mapping from a style code and several camera frames (5 in this paper) towards the starting hidden state of our autoregressive generator, we provide an additional degree of control for the users through the specification of camera velocities.&#34;&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://BinWangBFA.github.io/publication/siga21_camerakeyframe/extractorPipeline_hu4692b9e541bea0c75d1632799f7cf6af_189449_2000x2000_fit_q90_lanczos.jpg&#34; data-caption=&#34;By learning the mapping from a style code and several camera frames (5 in this paper) towards the starting hidden state of our autoregressive generator, we provide an additional degree of control for the users through the specification of camera velocities.&#34;&gt;
 
 
-  &lt;img data-src=&#34;https://BinWangBFA.github.io/publication/sig21_camerakeyframe/extractorPipeline_hu4692b9e541bea0c75d1632799f7cf6af_189449_2000x2000_fit_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;1500&#34; height=&#34;1698&#34;&gt;
+  &lt;img data-src=&#34;https://BinWangBFA.github.io/publication/siga21_camerakeyframe/extractorPipeline_hu4692b9e541bea0c75d1632799f7cf6af_189449_2000x2000_fit_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;1500&#34; height=&#34;1698&#34;&gt;
 &lt;/a&gt;
 
 
@@ -119,10 +119,10 @@
 &lt;figure id=&#34;figure-the-proposed-system-enables-designers-to-specify-keyframes-with-initial-velocities-in-this-example-the-same-keyframe-positions-and-camera-style-code-is-used-as-displayed-the-resulting-trajectories-are-guided-by-the-different-velocity-directions-defined-at-the-starting-keyframe-time-001-and-the-mid-keyframe-time-090-respectively-this-is-achieved-by-updating-the-lstm-hidden-state-through-a-dedicated-network-which-maps-velocities-with-hidden-states&#34;&gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;https://BinWangBFA.github.io/publication/sig21_camerakeyframe/estimation_model_hub5a7a528bd27f0d4e7f929725480e04a_364305_2000x2000_fit_q90_lanczos.jpg&#34; data-caption=&#34;The proposed system enables designers to specify keyframes with initial velocities. In this example, the same keyframe positions and camera style code is used. As displayed, the resulting trajectories are guided by the different velocity directions defined at the starting keyframe (time 001) and the mid keyframe (time 090) respectively. This is achieved by updating the LSTM hidden state through a dedicated network which maps velocities with hidden states.&#34;&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://BinWangBFA.github.io/publication/siga21_camerakeyframe/estimation_model_hub5a7a528bd27f0d4e7f929725480e04a_364305_2000x2000_fit_q90_lanczos.jpg&#34; data-caption=&#34;The proposed system enables designers to specify keyframes with initial velocities. In this example, the same keyframe positions and camera style code is used. As displayed, the resulting trajectories are guided by the different velocity directions defined at the starting keyframe (time 001) and the mid keyframe (time 090) respectively. This is achieved by updating the LSTM hidden state through a dedicated network which maps velocities with hidden states.&#34;&gt;
 
 
-  &lt;img data-src=&#34;https://BinWangBFA.github.io/publication/sig21_camerakeyframe/estimation_model_hub5a7a528bd27f0d4e7f929725480e04a_364305_2000x2000_fit_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;2338&#34; height=&#34;1633&#34;&gt;
+  &lt;img data-src=&#34;https://BinWangBFA.github.io/publication/siga21_camerakeyframe/estimation_model_hub5a7a528bd27f0d4e7f929725480e04a_364305_2000x2000_fit_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;2338&#34; height=&#34;1633&#34;&gt;
 &lt;/a&gt;
 
 
@@ -156,10 +156,10 @@
 &lt;figure id=&#34;figure-user-specified-keyframes-are-placed-at-increasingly-larger-distances-from-the-trajectory-of-a-given-style-as-displayed-our-system-adapts-well-to-the-keyframes-we-re-extract-the-style-codes-from-the-generated-trajectories-shown-with-crosses-in-the-pca-representation-on-the-right-part-of-the-figure-as-displayed-our-system-moves-from-the-given-style-to-adapt-to-the-keyframe-constraints&#34;&gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;https://BinWangBFA.github.io/publication/sig21_camerakeyframe/gatingPipeline_hub5a7a528bd27f0d4e7f929725480e04a_272006_2000x2000_fit_q90_lanczos.jpg&#34; data-caption=&#34;User-specified keyframes are placed at increasingly larger distances from the trajectory of a given style. As displayed, our system adapts well to the keyframes. We re-extract the style codes from the generated trajectories (shown with crosses in the PCA representation on the right part of the figure). As displayed our system moves from the given style to adapt to the keyframe constraints.&#34;&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://BinWangBFA.github.io/publication/siga21_camerakeyframe/gatingPipeline_hub5a7a528bd27f0d4e7f929725480e04a_272006_2000x2000_fit_q90_lanczos.jpg&#34; data-caption=&#34;User-specified keyframes are placed at increasingly larger distances from the trajectory of a given style. As displayed, our system adapts well to the keyframes. We re-extract the style codes from the generated trajectories (shown with crosses in the PCA representation on the right part of the figure). As displayed our system moves from the given style to adapt to the keyframe constraints.&#34;&gt;
 
 
-  &lt;img data-src=&#34;https://BinWangBFA.github.io/publication/sig21_camerakeyframe/gatingPipeline_hub5a7a528bd27f0d4e7f929725480e04a_272006_2000x2000_fit_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;3590&#34; height=&#34;1218&#34;&gt;
+  &lt;img data-src=&#34;https://BinWangBFA.github.io/publication/siga21_camerakeyframe/gatingPipeline_hub5a7a528bd27f0d4e7f929725480e04a_272006_2000x2000_fit_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;3590&#34; height=&#34;1218&#34;&gt;
 &lt;/a&gt;
 
 
@@ -193,10 +193,10 @@
 &lt;figure id=&#34;figure-our-camera-trajectory-editing-interface-the-scene-view-a-displays-the-animation-in-the-timeline-b-the-user-can-add-drag-and-delete-keyframes-inverted-triangles-as-well-as-drag-the-process-of-animation-the-keyframe-editing-c-allows-the-user-to-select-two-target-characters-shot-view-and-toric-camera-pose-at-the-keyframe-the-trajectories-selection-d-provides-generated-camera-trajectories-with-different-behaviors-for-the-user-to-choose-the-button-on-the-bottom-is-used-to-preview-a-result-play-generate-trajectories-generate-and-save-results-save&#34;&gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;https://BinWangBFA.github.io/publication/sig21_camerakeyframe/sideTrack_hub5a7a528bd27f0d4e7f929725480e04a_326674_2000x2000_fit_q90_lanczos.jpg&#34; data-caption=&#34;Our camera trajectory editing interface. The scene view (A) displays the animation. In the timeline (B) the user can add, drag, and delete keyframes (inverted triangles), as well as drag the process of animation. The keyframe editing (C) allows the user to select two target characters, shot view and Toric camera pose at the keyframe. The trajectories selection (D) provides generated camera trajectories with different behaviors for the user to choose. The button on the bottom is used to preview a result (Play), generate trajectories (Generate) and save results (Save).&#34;&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://BinWangBFA.github.io/publication/siga21_camerakeyframe/sideTrack_hub5a7a528bd27f0d4e7f929725480e04a_326674_2000x2000_fit_q90_lanczos.jpg&#34; data-caption=&#34;Our camera trajectory editing interface. The scene view (A) displays the animation. In the timeline (B) the user can add, drag, and delete keyframes (inverted triangles), as well as drag the process of animation. The keyframe editing (C) allows the user to select two target characters, shot view and Toric camera pose at the keyframe. The trajectories selection (D) provides generated camera trajectories with different behaviors for the user to choose. The button on the bottom is used to preview a result (Play), generate trajectories (Generate) and save results (Save).&#34;&gt;
 
 
-  &lt;img data-src=&#34;https://BinWangBFA.github.io/publication/sig21_camerakeyframe/sideTrack_hub5a7a528bd27f0d4e7f929725480e04a_326674_2000x2000_fit_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;2956&#34; height=&#34;1685&#34;&gt;
+  &lt;img data-src=&#34;https://BinWangBFA.github.io/publication/siga21_camerakeyframe/sideTrack_hub5a7a528bd27f0d4e7f929725480e04a_326674_2000x2000_fit_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;2956&#34; height=&#34;1685&#34;&gt;
 &lt;/a&gt;
 
 
@@ -230,10 +230,10 @@
 &lt;figure id=&#34;figure-experiment-with-same-keyframes-and-different-behaviors-different-colors-represent-different-camera-behaviors-frames-with-red-camera-icon-at-the-corner-refer-to-keyframe-constraints-we-observe-that-constraints-are-well-enforced-in-the-3d-content-and-in-the-rendered-snapshots&#34;&gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;https://BinWangBFA.github.io/publication/sig21_camerakeyframe/a_relative_b_direct_hub5a7a528bd27f0d4e7f929725480e04a_252522_2000x2000_fit_q90_lanczos.jpg&#34; data-caption=&#34;Experiment with same keyframes and different behaviors: different colors represent different camera behaviors. Frames with red camera icon at the corner refer to keyframe constraints. We observe that constraints are well enforced in the 3D content and in the rendered snapshots.&#34;&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://BinWangBFA.github.io/publication/siga21_camerakeyframe/a_relative_b_direct_hub5a7a528bd27f0d4e7f929725480e04a_252522_2000x2000_fit_q90_lanczos.jpg&#34; data-caption=&#34;Experiment with same keyframes and different behaviors: different colors represent different camera behaviors. Frames with red camera icon at the corner refer to keyframe constraints. We observe that constraints are well enforced in the 3D content and in the rendered snapshots.&#34;&gt;
 
 
-  &lt;img data-src=&#34;https://BinWangBFA.github.io/publication/sig21_camerakeyframe/a_relative_b_direct_hub5a7a528bd27f0d4e7f929725480e04a_252522_2000x2000_fit_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;2795&#34; height=&#34;570&#34;&gt;
+  &lt;img data-src=&#34;https://BinWangBFA.github.io/publication/siga21_camerakeyframe/a_relative_b_direct_hub5a7a528bd27f0d4e7f929725480e04a_252522_2000x2000_fit_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;2795&#34; height=&#34;570&#34;&gt;
 &lt;/a&gt;
 
 
@@ -267,10 +267,10 @@
 &lt;figure id=&#34;figure-experiment-with-different-keyframes-and-same-behavior-different-colors-represent-different-keyframes-fed-to-the-system-with-the-same-style-code-all-three-sequences-belongs-to-a-same-style-but-their-trajectories-adjust-well-in-response-to-the-required-keyframes-frames-with-different-colors-of-camera-icons-at-their-corner&#34;&gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;https://BinWangBFA.github.io/publication/sig21_camerakeyframe/zombie_seq_overview_hub5a7a528bd27f0d4e7f929725480e04a_250246_2000x2000_fit_q90_lanczos.jpg&#34; data-caption=&#34;Experiment with different keyframes and same behavior: different colors represent different keyframes fed to the system with the same style code. All three sequences belongs to a same style but their trajectories adjust well in response to the required keyframes (frames with different colors of camera icons at their corner).&#34;&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://BinWangBFA.github.io/publication/siga21_camerakeyframe/zombie_seq_overview_hub5a7a528bd27f0d4e7f929725480e04a_250246_2000x2000_fit_q90_lanczos.jpg&#34; data-caption=&#34;Experiment with different keyframes and same behavior: different colors represent different keyframes fed to the system with the same style code. All three sequences belongs to a same style but their trajectories adjust well in response to the required keyframes (frames with different colors of camera icons at their corner).&#34;&gt;
 
 
-  &lt;img data-src=&#34;https://BinWangBFA.github.io/publication/sig21_camerakeyframe/zombie_seq_overview_hub5a7a528bd27f0d4e7f929725480e04a_250246_2000x2000_fit_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;2784&#34; height=&#34;575&#34;&gt;
+  &lt;img data-src=&#34;https://BinWangBFA.github.io/publication/siga21_camerakeyframe/zombie_seq_overview_hub5a7a528bd27f0d4e7f929725480e04a_250246_2000x2000_fit_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;2784&#34; height=&#34;575&#34;&gt;
 &lt;/a&gt;
 
 
@@ -304,10 +304,10 @@
 &lt;figure id=&#34;figure-this-figure-displays-a-result-designed-by-an-animation-artist-using-only-10-keyframes-for-a-24-seconds-sequence-of-a-zombie-fighting-scene-we-show-the-keyframes-and-camera-trajectory-simultaneously-with-the-rendered-animation-snapshots&#34;&gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;https://BinWangBFA.github.io/publication/sig21_camerakeyframe/1_hub5a7a528bd27f0d4e7f929725480e04a_232143_2000x2000_fit_q90_lanczos.JPG&#34; data-caption=&#34;This figure displays a result designed by an animation artist using only 10 keyframes for a 24 seconds sequence of a zombie fighting scene. We show the keyframes and camera trajectory simultaneously with the rendered animation snapshots.&#34;&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://BinWangBFA.github.io/publication/siga21_camerakeyframe/1_hub5a7a528bd27f0d4e7f929725480e04a_232143_2000x2000_fit_q90_lanczos.JPG&#34; data-caption=&#34;This figure displays a result designed by an animation artist using only 10 keyframes for a 24 seconds sequence of a zombie fighting scene. We show the keyframes and camera trajectory simultaneously with the rendered animation snapshots.&#34;&gt;
 
 
-  &lt;img data-src=&#34;https://BinWangBFA.github.io/publication/sig21_camerakeyframe/1_hub5a7a528bd27f0d4e7f929725480e04a_232143_2000x2000_fit_q90_lanczos.JPG&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;2108&#34; height=&#34;1470&#34;&gt;
+  &lt;img data-src=&#34;https://BinWangBFA.github.io/publication/siga21_camerakeyframe/1_hub5a7a528bd27f0d4e7f929725480e04a_232143_2000x2000_fit_q90_lanczos.JPG&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;2108&#34; height=&#34;1470&#34;&gt;
 &lt;/a&gt;
 
 
@@ -341,10 +341,10 @@
 &lt;figure id=&#34;figure-in-this-hockey-game-scenario-our-method-is-able-to-generate-dynamic-and-qualitative-camera-motions-using-only-10-keyframes-rendered-animation-snapshots-and-the-overview-trajectory-are-displayed&#34;&gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;https://BinWangBFA.github.io/publication/sig21_camerakeyframe/2_hub5a7a528bd27f0d4e7f929725480e04a_548383_2000x2000_fit_q90_lanczos.JPG&#34; data-caption=&#34;In this hockey game scenario, our method is able to generate dynamic and qualitative camera motions using only 10 keyframes. Rendered animation snapshots and the overview trajectory are displayed.&#34;&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://BinWangBFA.github.io/publication/siga21_camerakeyframe/2_hub5a7a528bd27f0d4e7f929725480e04a_548383_2000x2000_fit_q90_lanczos.JPG&#34; data-caption=&#34;In this hockey game scenario, our method is able to generate dynamic and qualitative camera motions using only 10 keyframes. Rendered animation snapshots and the overview trajectory are displayed.&#34;&gt;
 
 
-  &lt;img data-src=&#34;https://BinWangBFA.github.io/publication/sig21_camerakeyframe/2_hub5a7a528bd27f0d4e7f929725480e04a_548383_2000x2000_fit_q90_lanczos.JPG&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;2092&#34; height=&#34;1257&#34;&gt;
+  &lt;img data-src=&#34;https://BinWangBFA.github.io/publication/siga21_camerakeyframe/2_hub5a7a528bd27f0d4e7f929725480e04a_548383_2000x2000_fit_q90_lanczos.JPG&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;2092&#34; height=&#34;1257&#34;&gt;
 &lt;/a&gt;
 
 
