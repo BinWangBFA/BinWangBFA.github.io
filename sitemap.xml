@@ -3,22 +3,87 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://BinWangBFA.github.io/author/corresponding-author/</loc>
+    <lastmod>2022-07-10T23:57:09+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://BinWangBFA.github.io/publication-type/1/</loc>
+    <lastmod>2022-07-10T23:57:09+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://BinWangBFA.github.io/authors/</loc>
+    <lastmod>2022-07-10T23:57:09+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://BinWangBFA.github.io/author/baoquan-chen-school-of-ai-peking-university/</loc>
+    <lastmod>2022-07-10T23:57:09+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://BinWangBFA.github.io/</loc>
+    <lastmod>2022-07-10T23:57:09+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://BinWangBFA.github.io/author/bin-wang-beijing-institute-for-general-artificial-intelligence/</loc>
+    <lastmod>2022-07-10T23:57:09+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://BinWangBFA.github.io/author/bo-zhu-dartmouth-college/</loc>
+    <lastmod>2022-07-10T23:57:09+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://BinWangBFA.github.io/tag/physical-simulation/</loc>
+    <lastmod>2022-07-10T23:57:09+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://BinWangBFA.github.io/tag/physics/</loc>
+    <lastmod>2022-07-10T23:57:09+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://BinWangBFA.github.io/publication_types/</loc>
+    <lastmod>2022-07-10T23:57:09+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://BinWangBFA.github.io/publication/</loc>
+    <lastmod>2022-07-10T23:57:09+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://BinWangBFA.github.io/publication/sig22_magneticthinshell/</loc>
+    <lastmod>2022-07-10T23:57:09+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://BinWangBFA.github.io/tags/</loc>
+    <lastmod>2022-07-10T23:57:09+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://BinWangBFA.github.io/author/xingyu-ni-cfcs-peking-university/</loc>
+    <lastmod>2022-07-10T23:57:09+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://BinWangBFA.github.io/author/xuwen-chen-cfcs-peking-university/</loc>
+    <lastmod>2022-07-10T23:57:09+08:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://BinWangBFA.github.io/author/equal-contribution-corresponding-author/</loc>
     <lastmod>2021-12-15T23:57:09+08:00</lastmod>
   </url>
   
   <url>
-    <loc>https://BinWangBFA.github.io/publication-type/1/</loc>
-    <lastmod>2021-12-15T23:57:09+08:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://BinWangBFA.github.io/publication/siga21_mpm/</loc>
-    <lastmod>2021-12-15T23:57:09+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://BinWangBFA.github.io/authors/</loc>
     <lastmod>2021-12-15T23:57:09+08:00</lastmod>
   </url>
   
@@ -38,62 +103,12 @@
   </url>
   
   <url>
-    <loc>https://BinWangBFA.github.io/</loc>
-    <lastmod>2021-12-15T23:57:09+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://BinWangBFA.github.io/author/bo-zhu-dartmouth-college/</loc>
-    <lastmod>2021-12-15T23:57:09+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://BinWangBFA.github.io/tag/physical-simulation/</loc>
-    <lastmod>2021-12-15T23:57:09+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://BinWangBFA.github.io/tag/physics/</loc>
-    <lastmod>2021-12-15T23:57:09+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://BinWangBFA.github.io/publication_types/</loc>
-    <lastmod>2021-12-15T23:57:09+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://BinWangBFA.github.io/publication/</loc>
-    <lastmod>2021-12-15T23:57:09+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://BinWangBFA.github.io/tags/</loc>
-    <lastmod>2021-12-15T23:57:09+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://BinWangBFA.github.io/author/xingyu-ni-cfcs-peking-university/</loc>
-    <lastmod>2021-12-15T23:57:09+08:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://BinWangBFA.github.io/author/yuchen-sun-cfcs-peking-university/</loc>
     <lastmod>2021-12-15T23:57:09+08:00</lastmod>
   </url>
   
   <url>
-    <loc>https://BinWangBFA.github.io/author/corresponding-author/</loc>
-    <lastmod>2021-12-13T19:11:48+08:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://BinWangBFA.github.io/tag/animation/</loc>
-    <lastmod>2021-12-13T19:11:48+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://BinWangBFA.github.io/author/bin-wang-beijing-institute-for-general-artificial-intelligence/</loc>
     <lastmod>2021-12-13T19:11:48+08:00</lastmod>
   </url>
   
